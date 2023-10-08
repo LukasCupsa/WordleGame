@@ -1,4 +1,4 @@
-// WORDLE GAME ASSIGNMENT - LUKAS CUPSA - March 26, 2022
+// WORDLE GAME ASSIGNMENT - LUKAS CUPSA -  Roughly March 2022
 //Replit Link: https://replit.com/join/cylnwbwajd-lukascupsa
 
 //TO-DO: INTEGRATE PROJECT WITH HTML, THEN CSS
